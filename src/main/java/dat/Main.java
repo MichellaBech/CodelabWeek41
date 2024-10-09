@@ -16,8 +16,4 @@ public class Main {
         ApplicationConfig.startServer(7070);
     }
 
-
-public void hello(){
-    System.out.println("Hello");
-}
 }
