@@ -15,4 +15,9 @@ public class Main {
     public static void main(String[] args) {
         ApplicationConfig.startServer(7070);
     }
+
+
+public void hello(){
+    System.out.println("Hello");
+}
 }
